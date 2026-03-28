@@ -1,7 +1,5 @@
 # Ahmed | A11ksa
 
----
-
 ## 🛠️ Expertise & Tech Stack
 
 - **Core Language**: Python (Advanced / Async)
