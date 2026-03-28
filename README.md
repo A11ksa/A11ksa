@@ -6,16 +6,6 @@ Building robust, production-grade APIs and automation frameworks for leading bin
 
 ---
 
-## 👋 About Me
-
-I'm **Ahmed** (@A11ksa), a specialized backend developer with deep expertise in **browser automation** and **real-time trading integrations**.
-
-I focus on creating **stable, high-performance APIs** for platforms that lack official public APIs. My libraries handle complex session management, WebSocket streaming, order execution, and anti-detection techniques — turning unreliable browser interactions into clean, maintainable Python interfaces trusted by traders and developers.
-
-My approach is rooted in precision and depth: **"Know thyself"** — mastering both the target systems and the tools used to interact with them.
-
----
-
 ## 🛠️ Expertise & Tech Stack
 
 - **Core Language**: Python (Advanced / Async)
