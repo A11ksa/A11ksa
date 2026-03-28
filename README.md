@@ -30,33 +30,12 @@ Building robust, production-grade APIs and automation frameworks for leading bin
 
 ---
 
-## 🤝 Open for Collaboration
-
-I'm interested in working with developers and teams on:
-
-- New binary options / trading platform integrations
-- Full automated trading bots and strategy engines
-- Performance optimization and architectural refactoring
-- Open-source FinTech and automation projects
-
-If you have a challenging integration, a promising idea, or want to contribute — I'm open to serious discussions.
-
----
-
 ## 📫 Let's Connect
 
 - **Email**: ar123ksa@gmail.com
 - **Telegram (Personal)**: [@A11ksa](https://t.me/A11ksa)
 - **Telegram Community (SniperXAuto)**: [@SniperXAuto](https://t.me/SniperXAuto)
 - **Technical Support**: Open an issue in any repository (preferred channel)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A11ksa&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A11ksa&layout=compact&theme=radical&hide_border=true)
 
 ---
 
