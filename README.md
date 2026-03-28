@@ -1,9 +1,5 @@
 # Ahmed | A11ksa
 
-**Trading Automation Engineer | Binary Options API Specialist**
-
-Building robust, production-grade APIs and automation frameworks for leading binary options platforms.
-
 ---
 
 ## 🛠️ Expertise & Tech Stack
